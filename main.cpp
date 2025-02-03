@@ -74,8 +74,8 @@ int main()
 				MyFile << vC << endl;
 
 				MyFile << vD << endl;
-				MyFile << vB << endl;
 				MyFile << vC << endl;
+				MyFile << vB << endl;
 			}
 		}
 	}
